@@ -10,7 +10,7 @@ git clone https://github.com/bestsoft-io/Electron-HelloWorld
 ## Change Directory to Source Code Location
 
 ```
-cd lectron-HelloWorld
+cd Electron-HelloWorld
 ```
 
 ## Build the App
