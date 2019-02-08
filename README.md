@@ -1,6 +1,10 @@
 # Electron-HelloWorld
 Electron Hello World App
 
+## Prerequisites
+
+In order to build and run the application, you'll need Git and Node.js (which comes with npm) installed on your computer.
+
 ## Clone the Repository
 
 ```
@@ -24,3 +28,5 @@ npm install
 ```
 npm start
 ```
+
+![screen shot](https://user-images.githubusercontent.com/817567/52501216-abdc3380-2b94-11e9-98cf-e36b5f49de20.png)
