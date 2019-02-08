@@ -7,7 +7,7 @@ Electron Hello World App
 git clone https://github.com/bestsoft-io/Electron-HelloWorld
 ```
 
-# Change Directory to Source Code Location
+## Change Directory to Source Code Location
 
 ```
 cd lectron-HelloWorld
